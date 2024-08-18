@@ -1,0 +1,27 @@
+body{
+  background-color: hsla(9, 100%, 64%, 0.644);
+  color: white;
+}
+label[for="date"]{
+  margin-left: -60px;
+}
+.inputdiv{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+  height: 100vh;
+}
+#date{
+  margin-left: 20px;
+}
+#model{
+  margin-left: 10px;
+}
+#total{
+  margin-left: 18px;
+}
+#tones{
+  margin-left: 11px;
+}
